@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-// test changes
+
 public class LaunchBrowser {
 	  WebDriver driver;
 //test this browser specific changes
@@ -14,6 +14,7 @@ public class LaunchBrowser {
 	        // Selenium 4.6+ automatically manages drivers
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
+	        // driver is set up
 	    }
 
 	    @Test
