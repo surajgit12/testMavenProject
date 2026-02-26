@@ -25,6 +25,12 @@ public class LaunchBrowser {
 	        System.out.println("Title: " + driver.getTitle());
 	    }
 
+	    @Test
+	    public void testPage() {
+	    	
+	        System.out.println("Able tpo launch test page");
+	    }
+
 	    @AfterClass
 	    public void tearDown() {
 	        if (driver != null) {
