@@ -18,7 +18,7 @@ public class LaunchBrowser {
 	        //changes is done is here
 	    }
 
-	    @Test
+	    @Test(groups ="smoke")
 	    public void launchBrowser() {
 	    	
 	        driver.get("https://www.google.com");
