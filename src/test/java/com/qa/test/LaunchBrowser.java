@@ -29,6 +29,8 @@ public class LaunchBrowser {
 	    public void testPage() {
 	    	
 	        System.out.println("Able tpo launch test page");
+	        System.out.println("Able tpo launch test page");
+	        
 	    }
 
 	    @AfterClass
