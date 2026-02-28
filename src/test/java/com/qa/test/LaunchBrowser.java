@@ -15,7 +15,7 @@ public class LaunchBrowser {
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
 	        // driver is set up
-	        //changes is done is here
+	        //changes is done is here hherr
 	    }
 
 	    @Test(groups ="smoke")
