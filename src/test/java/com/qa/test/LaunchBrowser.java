@@ -32,6 +32,8 @@ public class LaunchBrowser {
 	        System.out.println("Able to test testNg Annotation");
 	        
 	        System.out.println("Param1");
+	        System.out.println("Param2");
+	        System.out.println("Param3");
 	        
 	    }
 
