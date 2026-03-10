@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class LaunchBrowser {
 	  WebDriver driver;
-//test this browser specific changes
+//test this browser specific changesgfddfdfbdfbdfbdfbdf
 	    @BeforeClass(alwaysRun = true)
 	    public void setup() {
 	        // Selenium 4.6+ automatically manages drivers
