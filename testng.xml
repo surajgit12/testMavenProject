@@ -5,6 +5,7 @@
     <classes>
       <class name="com.qa.test.LaunchBrowser"/>
     </classes> 
+    </classes>     
   </test> <!-- Test -->
 </suite> <!-- Suite -->
 
