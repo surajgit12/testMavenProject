@@ -30,6 +30,7 @@ public class LaunchBrowser {
 	        System.out.println("Able tpo launch test page");
 	        System.out.println("Able tpo launch test page");
 	        System.out.println("Able to test testNg Annotation");
+			   System.out.println("Able to test testNg Para,t");
 	        
 	    }
 
