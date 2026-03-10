@@ -38,6 +38,8 @@ public class LaunchBrowser {
 	        System.out.println("Param4");
 	        System.out.println("Param5");
 	        
+	         //driver.quit();
+	        
 	    }
 
 	    @AfterClass
