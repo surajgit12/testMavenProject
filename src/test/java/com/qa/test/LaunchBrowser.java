@@ -15,7 +15,7 @@ public class LaunchBrowser {
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
        // test
-	        //suraj branch is created
+	        //suraj branch is created njewkkdskrek
 	    }
 
 	    @Test(groups ="smoke")
