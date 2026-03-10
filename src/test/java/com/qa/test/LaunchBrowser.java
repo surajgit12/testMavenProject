@@ -14,8 +14,7 @@ public class LaunchBrowser {
 	        // Selenium 4.6+ automatically manages drivers
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
-	        //driver.manage().window().maximize();  test//
-	        
+
 	    }
 
 	    @Test(groups ="smoke")
@@ -28,6 +27,7 @@ public class LaunchBrowser {
 	    @Test
 	    public void testPage() {
 	    	
+	        System.out.println("Able tpo launch test page");
 	        System.out.println("Able tpo launch test page");
 	        System.out.println("Able tpo launch test page");
 	        
