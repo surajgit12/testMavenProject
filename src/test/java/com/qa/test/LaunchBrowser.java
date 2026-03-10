@@ -35,6 +35,8 @@ public class LaunchBrowser {
 	        System.out.println("Param1");
 	        System.out.println("Param2");
 	        System.out.println("Param3");
+	        System.out.println("Param4");
+	        System.out.println("Param5");
 	        
 	    }
 
