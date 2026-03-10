@@ -14,7 +14,7 @@ public class LaunchBrowser {
 	        // Selenium 4.6+ automatically manages drivers
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
-//test
+//test  // yesy
 	    }
 
 	    @Test(groups ="smoke")
