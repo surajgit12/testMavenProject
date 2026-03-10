@@ -41,10 +41,9 @@ public class LaunchBrowser {
 			System.out.println("Param6");
 	        System.out.println("Param7");
 	        
-	         //driver.quit();
-	         //driver.quit();
-	         //driver.quit();
-	        
+	       
+	    	System.out.println("Param8");
+	        System.out.println("Param9");
 	    }
 
 	    @AfterClass
