@@ -8,15 +8,13 @@ import org.testng.annotations.Test;
 
 public class LaunchBrowser {
 	  WebDriver driver;
-//test this browser specific changesgfddfdfbdfbdfbdfbdf
+//test this browser specific changes doneee
 	    @BeforeClass(alwaysRun = true)
 	    public void setup() {
 	        // Selenium 4.6+ automatically manages drivers
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
-	        // driver is set up
-	        //changes is done is here hherr
-	        //done
+//test
 	    }
 
 	    @Test(groups ="smoke")
