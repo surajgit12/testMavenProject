@@ -15,6 +15,7 @@ public class LaunchBrowser {
 	        driver = new ChromeDriver();
 	        driver.manage().window().maximize();
        // test
+	        //suraj
 	    }
 
 	    @Test(groups ="smoke")
