@@ -32,18 +32,11 @@ public class LaunchBrowser {
 	        System.out.println("Able to test testNg Annotation");
 			   System.out.println("Able to test testNg Para,t");
 	        
-	        System.out.println("Param1");
-	        System.out.println("Param2");
-	        System.out.println("Param3");
-	        System.out.println("Param4");
-	        System.out.println("Param5");
-
-			System.out.println("Param6");
-	        System.out.println("Param7");
+	        System.out.println("Param1"); //test1
 	        
-	       
-	    	System.out.println("Param8");
-	        System.out.println("Param9");
+
+	        System.out.println("Param2"); //test2
+	
 	    }
 
 	    @AfterClass
